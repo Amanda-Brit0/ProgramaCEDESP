@@ -1,0 +1,17 @@
+﻿[Bb]in/
+[Oo]bj/
+.vs/
+packages/
+*.user
+*.suo
+*.cache
+dadosAlunos.json
+Relatorio_*.pdf
+*.exe
+*.dll
+*.pdb
+*.nupkg
+*.log
+estrutura_cedesp.txt
+.DS_Store
+Thumbs.db
